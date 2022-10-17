@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me faizal.78695953@gmail.com
 
-<!---
-Faraz7869/Faraz7869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=faraz7869&show_icons=true&theme=prussian&count_private=true" width="47%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraz7869&layout=compact&theme=prussian" width="46.6%">
